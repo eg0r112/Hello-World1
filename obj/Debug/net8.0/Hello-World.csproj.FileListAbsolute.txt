@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\Hello-World\bin\Debug\net8.0\Hello-World.exe
+C:\Users\Sasha\Desktop\Hello-World\bin\Debug\net8.0\Hello-World.deps.json
+C:\Users\Sasha\Desktop\Hello-World\bin\Debug\net8.0\Hello-World.runtimeconfig.json
+C:\Users\Sasha\Desktop\Hello-World\bin\Debug\net8.0\Hello-World.dll
+C:\Users\Sasha\Desktop\Hello-World\bin\Debug\net8.0\Hello-World.pdb
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.sourcelink.json
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.dll
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\refint\Hello-World.dll
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.pdb
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\Hello-World.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\Hello-World\obj\Debug\net8.0\ref\Hello-World.dll
